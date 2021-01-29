@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+  font-size: 20px;
+  background-color: white;
+
+  label.Mui-error {
+    font-size: 25px;
+    font-weight: bold;
+  }
+
+  pre {
+    text-align: justify;
+    display: flex;
+    margin: auto;
+    width: 400px;
+    background-color: midnightblue;
+    color: whitesmoke;
+    padding: 20px;
+    border-radius: 5px;
+  }
+}
+
+ul {
+  list-style: none;
+}
